@@ -28,5 +28,8 @@
 }
 
 .content{
-  height: 500px;
+  padding: 30px;
+}
+.sectionCard{
+  padding-top: 30px;
 }
